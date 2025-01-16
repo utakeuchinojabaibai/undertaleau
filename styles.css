@@ -5,7 +5,7 @@ a[href^="//"]:after {
   content: '\f35d';
   font-weight: 900;
 }
-a[href^="https://www.rectus.co.jp/"]:after {
+a[href^="https://www.utakeuchinojabaibai. github.io"]:after {
   margin: inherit;
   font-family: inherit;
   content: '';
