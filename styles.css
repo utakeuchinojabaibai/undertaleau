@@ -9,6 +9,8 @@ a[href^="https://www.utakeuchinojabaibai. github.io"]:after {
   margin: inherit;
   font-family: inherit;
   content: '';
-  font-weight: inherit;
+  font-weight: inherit; 
+}
+a:link, a:visited, a:hover, a:active{
   color: #00f;
 }
