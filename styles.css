@@ -10,4 +10,5 @@ a[href^="https://www.utakeuchinojabaibai. github.io"]:after {
   font-family: inherit;
   content: '';
   font-weight: inherit;
+  color: #ff0000;
 }
